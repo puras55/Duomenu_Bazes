@@ -1,0 +1,5 @@
+{"klausimas":"Kas vadovavo Sovietų Sąjungai per Antrojo pasaulinio karo metu?","teisingasAtsakymas":"c","atsakymasA":"Nikita Chruščiovas","atsakymasB":"Vladimiras Leninas","atsakymasC":"Josifas Stalinas"}
+{"klausimas":"Kokia priežastis inicijavo Amerikos pilietinį karą?","teisingasAtsakymas":"a","atsakymasA":"\"Nesutarimai dėl valstybių teisių","atsakymasB":"Išpuoliai prieš Forto Svagnerį","atsakymasC":"Griežtas baudžiamasis įstatymas"}
+{"klausimas":"Kuris įvykis paskatino Pirmąjį pasaulinį karą?","teisingasAtsakymas":"a","atsakymasA":"Sarajevos atentatas","atsakymasB":"Bresto taika","atsakymasC":"Berlyno blokada"}
+{"klausimas":"\"Kiek ilgai truko Prancūzijos revoliucija?","teisingasAtsakymas":"c","atsakymasA":"","atsakymasB":"10metu","atsakymasC":"15metu"}
+{"klausimas":"Kuris iš šių žmonių buvo Romos imperijos imperatorius?","teisingasAtsakymas":"c","atsakymasA":"Aleksandras Didysis","atsakymasB":"Julijus Cezaris","atsakymasC":"Gaius Julius Octavianus"}

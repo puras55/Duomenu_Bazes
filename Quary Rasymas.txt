@@ -1,0 +1,29 @@
+Paimti visus administratorius:
+SELECT * FROM admins;
+
+
+Paimti visus studentus:
+SELECT * FROM students;
+
+
+Paimti visus klausimus, kurių ID yra didesnis nei 5:
+SELECT * FROM questions WHERE question_id > 5;
+
+
+Paimti visus atsakymus, kurių teisingas atsakymas yra 'A':
+SELECT * FROM answers WHERE is_correct = true AND answer_text = 'A';
+
+
+Paimti visus studentus, kurie yra registruoti nuo 2020 metų:
+SELECT * FROM students WHERE registration_year >= 2020;
+
+Paimti visus testo rezultatus su balais, didesniais nei 80:
+SELECT * FROM tests WHERE test_score > 80;
+
+Paimti visus studentus, kurių vardas prasideda raide 'J':
+SELECT * FROM students WHERE name LIKE 'J%';
+
+Paimti visus klausimus ir susietus atsakymus:
+SELECT q.*, a.answer_text
+FROM questions q
+JOIN answers a ON q.question_id = a.question_id;
